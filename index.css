@@ -1,0 +1,25 @@
+.bodybody{
+  background-color:pink;
+  color:#8b2844;}
+  
+
+.button1{
+  height:60px;
+  width:120px;
+  COLOR:pink;
+  margin-left:100px;
+  background-color:#8b2844 ;
+  border:2px solid black;
+  box-shadow: 2px 2px 0 0 white,4px 4px 0 0 black ;
+}
+.button1:active{
+  margin-left:104px;
+  margin-top:4px;
+}
+.theparagraph{
+  font-family: "Brush Script MT", cursive; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 900; line-height: 30px;}
+  .HEADDD{
+    margin-left:100px;
+    
+  }
+
